@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CoolGoal.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/NextLevel.unity
+    guid: 766f48f90ad44a54cb922f6a6ecb8763
+  - enabled: 1
+    path: Assets/Scenes/NextLevel2.unity
+    guid: 2f93c280a397b2c42aef8124caf93ba1
+  - enabled: 1
+    path: Assets/Scenes/NextLevel3.unity
+    guid: d1eb54ae0a2731742800f377f4aa16a3
+  - enabled: 1
+    path: Assets/Scenes/NextLevel4.unity
+    guid: d8ea016eb13fdb0458dd42d1684832d7
+  m_configObjects: {}
